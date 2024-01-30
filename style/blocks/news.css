@@ -1,0 +1,21 @@
+.news {
+    height: 600px;
+}
+
+.news__container {
+    position: relative;
+}
+
+.news__sales {
+    color: #FFF;
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 51px;
+}
+
+.news__list {
+    display: inline-flex;
+}
